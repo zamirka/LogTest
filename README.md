@@ -1,0 +1,2 @@
+# LogTest
+Logentries via NLog
